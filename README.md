@@ -1,5 +1,5 @@
 # Potential Interview Questions for Cloud Architects
-A list of a few questions being asked during an interview for a cloud architect position
+A list of a few questions being asked during an interview for a cloud architect position. I'll keep the list updated once in a while.
 * Explain how SSL/TLS works. What are the differences between them?
 * Explain how OAuth works.
 * Explain how OIDC works in conjunction with OAuth.
