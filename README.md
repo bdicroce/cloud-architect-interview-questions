@@ -1,4 +1,4 @@
-# Cloud Architect Interview Questions
+# Potential Interview Questions for Cloud Architects
 A list of a few questions being asked during an interview for a cloud architect position
 * Explain how SSL/TLS works. What are the differences between them?
 * Explain how OAuth works.
