@@ -10,7 +10,7 @@ A list of a few questions being asked during an interview for a cloud architect 
 * If you would need to build an application from scratch what technologies would you choose?
 * How do you keep with the latest technology trends?
 * Considerations from design and IT Security (IT Sec) for moving an on-premise architecture to the public cloud (i.e., AWS, Azure, GCP).
-* Describe the DevSecOps pipeline in uour last project.
+* Describe the DevSecOps pipeline in your last project.
 * What are the differences and benefits between ABAC vs RBAC?
 * Could you describe your experience using Kubernetes? Distribution? Tools? Operations/Development?
 * Could you describe your experience in AWS or GCP?
