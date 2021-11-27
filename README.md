@@ -9,6 +9,7 @@ A list of a few questions being asked during an interview for a cloud/IT/softwar
 * What is your position about coding/programming as a cloud architecture?
 * Explain integration architecture strategies for polycloud applications.
 * What are some best practices when it comes to application configuration?
+* Describe some patterns the support resiliency or stability in an application.
 # Databases
 * Explain the difference between relational and non-relational databases.
 * What is the difference between a view and a materialized view?
