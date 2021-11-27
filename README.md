@@ -10,9 +10,11 @@ A list of a few questions being asked during an interview for a cloud/IT/softwar
 * Explain integration architecture strategies for polycloud applications.
 * What are some best practices when it comes to application configuration?
 * Describe some patterns the support resiliency or stability in an application.
-# Databases
+# Databases (RDBMS, NoSQL, Caching)
 * Explain the difference between relational and non-relational databases.
 * What is the difference between a view and a materialized view?
+* Explain the different eviction policies related to caching.
+* Explain the different patterns involved when using caching.
 # DevOps
 * Describe the DevSecOps pipeline in your last project.
 * Could you describe your experience using Kubernetes? Distribution? Tools? Operations/Development?
